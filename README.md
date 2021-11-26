@@ -1,12 +1,9 @@
 # projetogama
-Projeto desenvolvido para entrega do Primeiro Desafio Gama (Loja catálogo de carros)
-### Links Indicados
+Projeto desenvolvido para entrega do Primeiro Desafio Gama (Loja catálogo de carros
 
 ### Planejamento
 
-### Wireframe
-
-### Tipografia
+Utilização do método Kan Ban
 
 ### Imagens
 
